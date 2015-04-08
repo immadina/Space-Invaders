@@ -1,0 +1,21 @@
+canvas {
+	margin: auto;
+    	background-color:black;
+}
+
+div.gamebox {
+	position:relative;
+	margin:auto;
+	width:700px;
+	top:150px;
+        background-color:black;
+}
+		
+h1 {
+	color:#00ff00;
+	text-align:center;
+}
+
+body {
+        background-color:black;
+}
